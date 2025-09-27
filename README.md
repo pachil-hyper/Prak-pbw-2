@@ -1,4 +1,3 @@
-# Prak-pbw-2
-Pertemuan ke 2
+# Pertemuan 2 Aplikasi PHP Dasar - Form Pendaftaran Event
 
 Link Pertemuan Pertama 
