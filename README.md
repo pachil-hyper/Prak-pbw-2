@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -59,3 +60,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Pertemuan 2 Aplikasi PHP Dasar - Form Pendaftaran Event
+# Dokumentasi Hasil
+Hasil menunjukan proses berhasil dan gagal jika salah menginput sesuai perintah
+<img width="1898" height="970" alt="image" src="https://github.com/user-attachments/assets/c79da350-e70c-43b9-8827-905f18076399" />
+
+Link Pertemuan Pertama 
+https://github.com/pachil-hyper/Prak-pbw.git
+>>>>>>> 64e6174950388bed3f3582de2254901b5c8bc2ed
