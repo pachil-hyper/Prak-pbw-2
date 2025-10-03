@@ -2,8 +2,8 @@
 
 LaraPress adalah aplikasi blog sederhana yang dibangun menggunakan Laravel 12 untuk tujuan pembelajaran dan pengembangan keterampilan web development.
 
-![Screenshot Halaman Utama LaraPress](URL_UNTUK_SCREENSHOT_HALAMAN_UTAMA_ANDA)
-*(Catatan: Ganti URL di atas dengan URL screenshot aplikasi Anda)*
+<img width="1173" height="355" alt="image" src="https://github.com/user-attachments/assets/f64a7795-d686-4b10-bce7-701a263eca4e" />
+
 
 ---
 
