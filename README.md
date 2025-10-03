@@ -104,7 +104,7 @@ html
 
 1. Clone repository ini:
 bash
-git clone https://github.com/adiwp/pbw.git
+git clone https://github.com/pachil-hyper/Prak-pbw-2
 cd pro1
 
 
@@ -137,9 +137,19 @@ http://localhost:8000
 ## 📸 Screenshot
 
 ### Halaman Utama
-![Halaman Utama](docs/screenshot-welcome.png)
+<img width="738" height="283" alt="image" src="https://github.com/user-attachments/assets/190e22b2-aaa8-4803-8d1f-c8d0e02f43e7" />
+
 
 Halaman utama menampilkan sambutan sederhana kepada pengunjung blog LaraPress.
+
+### Tentang-Kami
+<img width="1153" height="307" alt="image" src="https://github.com/user-attachments/assets/03f001c6-2dc1-422f-9761-714dd89a23db" />
+Halaman Tentang-Kami menampilkan penjelasan tentang larapress
+
+### Kontak-Kami
+<img width="683" height="357" alt="image" src="https://github.com/user-attachments/assets/da95c583-4879-4989-ada0-ce2347aeef64" />
+Halaman Kontak-Kami menampilkan penjelasan tentang kontak fazril fadilah
+
 
 ## 🔄 Git History
 
@@ -157,8 +167,8 @@ Semua perubahan telah di-commit dan di-push ke repository dengan pesan commit ya
 
 ## 👨‍💻 Pengembang
 
-- *Nama*: Adi Wahyu
-- *Repository*: [pbw](https://github.com/adiwp/pbw)
+- *Nama*: Fazril Fadilah
+- *Repository*: [Prak-pbw-2](https://github.com/pachil-hyper/Prak-pbw-2)
 - *Branch*: main
 
 ## 📄 Lisensi
