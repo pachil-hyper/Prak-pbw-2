@@ -22,6 +22,10 @@ Proyek ini dibuat sebagai bagian dari pembelajaran Laravel framework. LaraPress 
    - Menampilkan informasi tentang LaraPress
    - Menjelaskan tujuan proyek sebagai pembelajaran Laravel 12
 
+### 3. *Halaman Kontak Kami*
+    - Route: /kontak-kami
+    - Menampilkan informasi tentang fazril fadilah
+
 ## 📁 Struktur File yang Dimodifikasi
 
 ### File yang Dibuat/Dimodifikasi:
