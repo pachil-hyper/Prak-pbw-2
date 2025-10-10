@@ -31,11 +31,14 @@ d8f937d (8 Okt 2025) → Test dengan PEST
 
 ## 🎯 Daftar Fitur Baru
 **Fitur Registrasi**
-  <img width="1916" height="1022" alt="image" src="https://github.com/user-attachments/assets/e297f6d5-f8eb-46ff-a6b1-ecbe24b7f2db" />
+  <<img width="1893" height="924" alt="image" src="https://github.com/user-attachments/assets/e9c38b82-d334-42d6-80f7-8ef627e202e9" />
+" />
 **Halaman Login**
-  <img width="1916" height="1014" alt="image" src="https://github.com/user-attachments/assets/f156750a-9bed-4e74-8e02-8cfb74e56a9c" />
+  <<img width="1892" height="939" alt="image" src="https://github.com/user-attachments/assets/d7e30c02-33f1-4735-983c-a9b702c15c07" />
+" />
 **Dashboard**
-<img width="1911" height="1021" alt="image" src="https://github.com/user-attachments/assets/d451b119-49dd-4ebd-b094-b0271552b19d" />  
+<<img width="1893" height="954" alt="image" src="https://github.com/user-attachments/assets/09f37dab-d649-451d-8ac4-2cb70490ab19" />
+" />  
 
 ### 1. ✨ Sistem Autentikasi Lengkap (Laravel Breeze)
 **Commit**: `585f6c3`  
